@@ -13,3 +13,6 @@
 
 #### JWT — What is it? How to Perform Security Checks?
 - https://medium.com/trendyol-tech/jwt-nedir-g%C3%BCvenlik-kontrolleri-nas%C4%B1l-yap%C4%B1l%C4%B1r-3421ebc33989
+
+#### JWT and Session Difference
+https://enesbuyuk.com/article/jwt-ve-session-farki
